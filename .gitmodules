@@ -1,0 +1,3 @@
+[submodule "CVE-2020-8004/stm32f1-firmware-extractor"]
+	path = CVE-2020-8004/stm32f1-firmware-extractor
+	url = https://gitlab.zapb.de/zapb/stm32f1-firmware-extractor.git
